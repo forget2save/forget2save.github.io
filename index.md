@@ -7,4 +7,5 @@ Welcome to my blog. I am a one-year PhD student in Zhejiang University. My resea
 ## Posts
 
 - [intro](./_posts/2022-04-11-intro.md)
+- [computer network](./_posts/2022-04-14-computer-network.md)
 
