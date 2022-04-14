@@ -2,10 +2,9 @@
 layout: default
 ---
 
-Welcome to my blog. I am a one-year PhD student in Zhejiang University. My research interest is on the robustness of deep learning.
+Welcome to my blog. I am a one-year PhD student in Zhejiang University. My research interest is the security of smart systems.
 
 ## Posts
 
-- [intro](./_posts/2022-04-11-intro.md)
-- [computer network](./_posts/2022-04-14-computer-network.md)
+- As a TA, I write down the notes to help me remember the details of [computer network.](./_posts/2022-04-14-computer-network.md)
 
